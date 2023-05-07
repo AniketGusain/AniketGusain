@@ -1,9 +1,6 @@
 <h1 align="center">Hi 😊, I'm Aniket Gusain</h1>
-<h3 align="center">I am a Pre-Final year student pursuing B.Tech in Computer Science.</h3>
+<h3 align="center">I am a Final year student pursuing B.Tech in Computer Science.</h3>
 
-- 🔭 I’m currently working on **HealthApp**
-
-- 🌱 I’m currently learning **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
